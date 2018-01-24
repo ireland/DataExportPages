@@ -8,3 +8,6 @@ A collection of links to data export pages for popular social and productivity w
 * FAQ - https://support.google.com/accounts/answer/3024190
 * Download page - https://takeout.google.com/settings/takeout
 
+## Linkedin
+* FAW - https://www.linkedin.com/help/linkedin/answer/50191?trk=psettings-data-export
+* Download Page - https://www.linkedin.com/psettings/member-data
